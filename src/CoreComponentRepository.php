@@ -1,6 +1,6 @@
 <?php
 
-namespace MehediIitdu\CoreComponentRepository;
+namespace hasnainali9\CoreComponentRepository;
 use App\Models\Addon;
 use Cache;
 
