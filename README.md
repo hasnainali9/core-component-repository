@@ -18,7 +18,7 @@ composer require hasnainali9/core-component-repository
 ## Usage
 Add this line under providers array in config/app.php
 ``` php
-MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider::class
+hasnainali9\CoreComponentRepository\CoreComponentRepositoryServiceProvider::class
 ```
 
 ### Testing
