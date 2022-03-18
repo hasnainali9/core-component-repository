@@ -1,17 +1,24 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
-    "description": "My awesome package",
+    "name": "hasnainali9/core-component-repository",
+    "description": "Ecomerce Core Component Repository",
     "keywords": [
         "mehedi-iitdu",
+        "hasnainali9",
         "core-component-repository"
     ],
-    "homepage": "https://github.com/mehedi-iitdu/core-component-repository",
+    "homepage": "https://github.com/hasnainali9/core-component-repository",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Mehedi Hasan",
             "email": "bsse0607@iit.du.ac.bd",
+            "role": "Developer"
+        },
+        
+        {
+            "name": "Hasnain Ali",
+            "email": "hasnainali@lightningitsolution.pk",
             "role": "Developer"
         }
     ],
@@ -28,12 +35,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MehediIitdu\\CoreComponentRepository\\": "src"
+            "hasnainali9\\CoreComponentRepository\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MehediIitdu\\CoreComponentRepository\\Tests\\": "tests"
+            "hasnainali9\\CoreComponentRepository\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -47,10 +54,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MehediIitdu\\CoreComponentRepository\\CoreComponentRepositoryServiceProvider"
+                "hasnainali9\\CoreComponentRepository\\CoreComponentRepositoryServiceProvider"
             ],
             "aliases": {
-                "CoreComponentRepository": "MehediIitdu\\CoreComponentRepository\\CoreComponentRepositoryFacade"
+                "CoreComponentRepository": "hasnainali9\\CoreComponentRepository\\CoreComponentRepositoryFacade"
             }
         }
     }
