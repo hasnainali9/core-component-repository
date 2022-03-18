@@ -12,7 +12,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require mehedi-iitdu/core-component-repository
+composer require hasnainali9/core-component-repository
 ```
 
 ## Usage
@@ -42,6 +42,7 @@ If you discover any security related issues, please email bsse0607@iit.du.ac.bd 
 ## Credits
 
 - [Mehedi Hasan](https://github.com/mehedi-iitdu)
+- [Hasnain Ali](https://github.com/hasnainali9)
 - [All Contributors](../../contributors)
 
 ## License
